@@ -79,7 +79,7 @@
 </p>
 <br>
 <p align="center">
-  <a href="https://discord.com/users/12983811400501861" target="_blank">
+  <a href="https://discord.com/users/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png" width="40" alt="Discord" />
   </a> 
 </p>
