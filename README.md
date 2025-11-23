@@ -27,7 +27,7 @@
   <br clear="both" />
 <p>
   <!-- Languages -->
-<img align="left" src="https://skillicons.dev/icons?i=js,python,html,css,cs,php&perline=5" alt="Language Icons" />
+<img align="left" src="https://skillicons.dev/icons?i=js,react,python,html,css,cs,php&perline=5" alt="Language Icons" />
 
 
 
