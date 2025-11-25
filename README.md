@@ -54,7 +54,7 @@
 <p>
 <img align="left" src="https://skillicons.dev/icons?i=git,docker,postman,vscode,visualstudio,bots,wordpress,supabase,bash,mysql&perline=5" alt="Tool Icons" />
   <!-- Right: Image -->
-  <img align="right" src="images/cartethyiaChibi.png" width="280px"/>
+  <img align="right" src="images/cartethyiaChibi.png" width="300px"/>
 </p>
 
 <br clear="both" />
