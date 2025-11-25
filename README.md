@@ -27,24 +27,34 @@
   <br clear="both" />
 <p>
   <!-- Languages -->
-<img align="left" src="https://skillicons.dev/icons?i=js,react,python,html,css,cs,php&perline=5" alt="Language Icons" />
+<img align="left" src="https://skillicons.dev/icons?i=js,python,html,css,cs,php&perline=5" alt="Language Icons" />
 
-
-
-  <!-- Right: GIF -->
-   <img src="images/chisachibi.png" width="300px" align="right" style="margin-left: 20px; margin-bottom:20px; border-radius: 14px;" />
+  <!-- Right: Image -->
+   <img src="images/chisachibi.png" width="280px" align="right" style="margin-left: 20px; margin-bottom:20px; border-radius: 14px;" />
   
 </p>
 
 <br clear="both" />
 <hr style="margin: 40px 0;" />
 
-<h3 align="left">Tools & Tech</h3>
+
+<h3 align="left">Frameworks & Libraries</h3>
+<br clear="both" />
+<p>
+<img align="left" src="https://skillicons.dev/icons?i=react,dotnet&perline=6" />
+   <!-- Right: Image -->
+  <img align="right" src="images/columbinaChibi.png" width="300px"/>
+</p>
+<br clear="both" />
+<hr>
+
+
+<h3 align="left">Tools & Platforms</h3>
   <br clear="both" />
 <p>
-<img align="left" src="https://skillicons.dev/icons?i=git,docker,postman,vscode,visualstudio,bots,wordpress,supabase,bash,dotnet,mysql&perline=5" alt="Tool Icons" />
-  <!-- Right: GIF -->
-  <img align="right" src="images/cartethyiaChibi.png" width="380px"/>
+<img align="left" src="https://skillicons.dev/icons?i=git,docker,postman,vscode,visualstudio,bots,wordpress,supabase,bash,mysql&perline=5" alt="Tool Icons" />
+  <!-- Right: Image -->
+  <img align="right" src="images/cartethyiaChibi.png" width="280px"/>
 </p>
 
 <br clear="both" />
