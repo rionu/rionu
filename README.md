@@ -41,7 +41,7 @@
 <h3 align="left">Frameworks & Libraries</h3>
 <br clear="both" />
 <p>
-<img align="left" src="https://skillicons.dev/icons?i=react,dotnet&perline=6" />
+<img align="left" src="https://skillicons.dev/icons?i=react&perline=6" />
    <!-- Right: Image -->
   <img align="right" src="images/columbinaChibi.png" width="300px"/>
 </p>
@@ -52,7 +52,7 @@
 <h3 align="left">Tools & Platforms</h3>
   <br clear="both" />
 <p>
-<img align="left" src="https://skillicons.dev/icons?i=git,docker,postman,vscode,visualstudio,bots,wordpress,supabase,bash,mysql&perline=5" alt="Tool Icons" />
+<img align="left" src="https://skillicons.dev/icons?i=git,docker,postman,vscode,visualstudio,bots,wordpress,dotnet,supabase,bash,mysql&perline=5" alt="Tool Icons" />
   <!-- Right: Image -->
   <img align="right" src="images/cartethyiaChibi.png" width="300px"/>
 </p>
